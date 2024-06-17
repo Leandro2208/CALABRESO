@@ -1,6 +1,6 @@
 body{
     color: white;
-    background-color: #00162E;
+    background-color: rgba(0, 53, 199, 0.87);
 }
 .titulo-principal{
     font-family: 'Times New Roman', Times, serif;
@@ -12,4 +12,12 @@ body{
 .conteudo-titulo{
     text-align: center;
 }
-
+.conteudo-senha{
+    margin: top 80px;
+    background-color:rgb(46, 73, 104);
+    padding: 24px;
+}
+.conteudo{
+    max-width: 900px;
+    margin: 0 auto; 
+}
